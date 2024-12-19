@@ -1,0 +1,245 @@
+body{
+    margin: 0;
+}
+.goat{
+    background-color:#d92119;
+    color: white;
+
+     display: flex; 
+    align-items:center ;
+    justify-content:center;
+}
+.logo{
+    display: flex;
+}
+ul{
+   overflow: auto;
+   list-style-type:none;
+    
+}
+li{
+    float: left;
+    text-decoration: none;
+}
+li a{
+    display: block;
+     text-decoration: none;
+     margin:10px;
+     padding: 0;
+}
+.back{
+    background-image:url("../slide3a.png");
+    text-align:center;
+    color: white;
+    font-size: 30px;
+    height: 100vh;
+    background-size: cover;
+     background-position: center;
+    background-repeat: no-repeat; 
+    padding: 250px 0;
+    margin-bottom: 10px;
+
+}
+.moon{
+    border: 3px solid white;
+    color:white;
+    padding:15px;
+    display: inline-block;
+    width:15%;
+    cursor: pointer;
+}
+.front{
+    margin-top: 20px;
+    margin-left: 135px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    display: inline-block;
+    width: 10%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+ 
+}
+.jum{
+    
+    display: flex;
+    width:80%;
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 20px;
+    letter-spacing: normal;
+    color: rgb(39, 39, 39);
+    padding-bottom: 50px;
+    background-color: #f7f7f7;
+}
+main{
+    width: 70%;
+}
+.ehn{
+    margin-left: 10px;
+}
+.war{
+    background-color: red;
+    color: white;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.top{
+    font-size:30px;
+    margin-left: 100px;
+    margin-top: 0;
+     margin-bottom: 30px;
+    border-bottom:1px solid gray;
+}
+.sha{
+    margin-left: 100px;
+    display: flex;
+    border-bottom:1px solid gray;
+    margin-bottom:20px;
+}
+.lol{
+
+    margin-top: 50px;
+    height:250px
+}
+.lol img{
+    height: 250px;
+}
+.dark{
+    margin-left: 20px;
+    line-height:20px;
+    font-size: 20px;
+}
+.down{
+    display: flex;
+    margin-left: 100px;
+}
+.grid-container{
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 10px;
+    row-gap: 10px;
+   
+}
+.grid-item{
+    background-color: black;
+    backface-visibility: visible;
+}
+aside{
+    width: 30%;
+    
+    margin-left: 30px;
+     margin-top:30px ;
+
+
+
+    
+
+}
+.kk{
+    background-color:#d92119 ;
+    color:white;
+    line-height: 30px;
+    width: 250px;
+    padding: 20px;
+    color: white;
+}
+.lo{
+    border: 1px solid white;
+    background-color: white;
+    display: inline-block;
+    margin-left: 100px;
+}
+.la{
+    display: flex;
+    border:1px solid black;
+    background-color:red ;
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 20px;
+}
+input[type=text]{
+    width:300px;
+    padding: 10px;
+    margin-top: 35px;
+    margin-left: 40px;
+    margin-bottom: 35px;
+    box-sizing: 500px;
+    width: 300px;
+}
+.re{
+    background-color: #f7f7f7;
+    color:black;
+    display: inline-block;
+    margin-top:40px;
+    padding-top: 10px;
+    padding-right: 250px;
+    padding-left: 20px;
+}
+.a{
+list-style-type: disc;
+}
+li{
+    margin: 10px;
+}
+
+.s{
+    
+    background-color: #f7f7f7;
+    color:black;
+    display: inline-block;
+    margin-top:20px;
+    padding-top: 10px;
+    padding-right: 250px;
+    padding-left: 20px;     
+}
+.po{
+    display: flex;
+    background-color: #f7f7f7;
+    color:black;
+    margin-top:20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 300px;
+}
+.efl{
+    margin-left: 100px;
+    border: 3px solid white;
+    height: 40px;
+    width: 15%;
+    text-align: center;
+    padding: 7px;
+    margin-top: 20px;
+    
+}
+.rgb{
+ margin-left: 100px;
+ display: flex;   
+}
+
+    
+.jk{
+    margin-left: 50px;
+}
+.pw{
+     display: flex; 
+    border-bottom: 1px solid gray;
+    width:300px;
+    padding-bottom:0px;
+}
+.de{
+    margin-top:0;
+}
+.q{
+    margin-left: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    display: flex;}

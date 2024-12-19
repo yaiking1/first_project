@@ -1,0 +1,139 @@
+.dear{
+    background-color: #252525;
+    display: flex;
+}
+.sal{
+    background-color: #0e539c;
+    display: flex;
+}
+
+ul{
+    background-color:  #f7f7f7;
+    text-decoration: none;
+    list-style-type: none;
+}
+li{
+    float: left;
+    text-decoration: none;
+}
+
+li a{
+    display: block;
+    margin: 20px;
+    text-decoration: none;
+}
+.a1{
+    
+    background-image:url("../slider-b.jpg");
+    text-align:center;
+    color: white;
+    font-size: 30px;
+    /* height: 100vh; */
+    background-size: cover;
+     margin-top: 70px;
+    background-repeat: no-repeat; 
+     padding: 250px 0;
+    margin-bottom: 10px;
+
+}
+.r{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.kk{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.kk img{
+    width: 380px;
+    height: 300px;
+}
+.jw{
+    padding-left: 100px;
+}
+.mm{
+    padding-left: 20px;
+}
+.ol{
+    padding-left: 20px;
+}
+.x{
+    background-image:url("../pic.jpg") ;
+ 
+    background-size: cover;
+     background-position: center;
+     height: 100vh;
+     justify-content: center;
+     color: white;
+}
+.z{
+     
+    background-color: #0e539c;
+    display: inline-block;
+    margin-top: 150px;
+    margin-left:150px;
+    padding-left:20px;
+    padding-right: 250px;
+}
+.para{
+    float:right;
+    margin-right: 250px;
+    margin-top:150px;
+    
+    
+}
+.vv{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.nm{
+margin-bottom: 50px;
+}
+.nm img{
+    width:380px;
+    height: 300px;
+}
+.f9{
+    background-image: url("../pathfinder.jpg");
+    background-size: cover;
+     background-position: center;
+     height: 100vh;
+     justify-content: center;
+     color: white;
+}
+.w{
+    border:1px solid white;
+    background-color: #135090;
+    display: inline-block;
+    margin-left:50%;
+    padding-top:70px;
+    padding-left:50px;
+    padding-right: 180px;
+    padding-bottom: 160px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.bb img{
+    width: 380px;
+    height: 300px;
+}
+.bb{
+    display: flex;
+    margin-top: 50px;
+}
+.tain img{
+    width: 380px;
+    height: 300px;
+}
+.tain{
+    display: flex;
+}
+.t{
+    background-color: #1a1a1a;
+    color:white;
+    padding-top: 50px;
+    margin-top: 50px;
+}
